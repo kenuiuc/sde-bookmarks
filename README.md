@@ -9,6 +9,5 @@
 - [Algorithms](https://youtube.com/playlist?list=PL0v718LJg-7-O5n09pu1wS9mRG6omIWwa)
 - [Git](https://youtube.com/playlist?list=PLu-nSsOS6FRIg52MWrd7C_qSnQp3ZoHwW)
 
-### PGWP notes
-- [ubc PGWP tutorial](https://students.ubc.ca/career/career-resources/working-canada/post-graduation-work-permit/tutorial-apply-post-graduation-work-permit-within-canada-overview)
-- [ubc canvas course](https://canvas.ubc.ca/courses/92020)
+### Java Servlet
+- [tomcat architecture](https://pdai.tech/md/framework/tomcat/tomcat-overview.html)
