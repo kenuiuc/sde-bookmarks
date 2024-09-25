@@ -17,3 +17,5 @@
   `cgroups`, `namespaces` and `overlay filesystem`
 - [Container Networking](https://youtu.be/z-ITjDQT7DU?si=WmxvAkHYGTZ9HC9A)  
   `bridge` and `iptables` i.e How traffic get routed from the host to containers
+- [容器网络原理文章](https://typesafe.cn/posts/how-to-add-port-for-docker/)  
+  `bridge`, `veth` and `netns`
