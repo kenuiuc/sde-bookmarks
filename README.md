@@ -11,3 +11,9 @@
 
 ### Java Servlet
 - [tomcat architecture](https://pdai.tech/md/framework/tomcat/tomcat-overview.html)
+
+### Container Internals
+- [Linux Container Primitives](https://youtu.be/Ueu8TuW-IOg?si=kwlJ_1u6Ys7HFDfX)  
+  `cgroups`, `namespaces` and `overlay filesystem`
+- [Container Networking](https://youtu.be/z-ITjDQT7DU?si=WmxvAkHYGTZ9HC9A)  
+  `bridge` and `iptables` i.e How traffic get routed from the host to containers
