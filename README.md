@@ -19,3 +19,8 @@
   `bridge` and `iptables` i.e How traffic get routed from the host to containers
 - [容器网络原理文章](https://typesafe.cn/posts/how-to-add-port-for-docker/)  
   `bridge`, `veth` and `netns`
+
+### OS Confusions
+- [PCB and Kernel Stack](https://youtu.be/b4fsyrWegGo)  
+  PCB lives in the kernel space which user process cant even read.  
+  Each process has 2 stacks, user stack and kernel stack.
