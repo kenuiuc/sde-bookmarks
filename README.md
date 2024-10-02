@@ -24,3 +24,8 @@
 - [PCB and Kernel Stack](https://youtu.be/b4fsyrWegGo)  
   PCB lives in the kernel space which user process cant even read.  
   Each process has 2 stacks, user stack and kernel stack.
+- [C# There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)  
+  How exactly `async` call works without threads.
+- [libuv Desgin Overview](https://docs.libuv.org/en/v1.x/design.html)  
+  Nodejs async uses `libuv` which in turn implements event loop with `epoll`.  
+  
