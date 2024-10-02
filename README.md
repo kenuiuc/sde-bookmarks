@@ -27,5 +27,7 @@
 - [C# There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)  
   How exactly `async` call works without threads.
 - [libuv Desgin Overview](https://docs.libuv.org/en/v1.x/design.html)  
-  Nodejs async uses `libuv` which in turn implements event loop with `epoll`.  
+  Nodejs async uses `libuv` which in turn implements event loop with `epoll`.
+- [Event Driven Concurrnt Server](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)  
+  `Nodejs`, `Redis` and `Tomcat` all use `epoll`. 
   
