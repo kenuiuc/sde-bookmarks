@@ -29,5 +29,8 @@
 - [libuv Desgin Overview](https://docs.libuv.org/en/v1.x/design.html)  
   Nodejs async uses `libuv` which in turn implements event loop with `epoll`.
 - [Event Driven Concurrnt Server](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)  
-  `Nodejs`, `Redis` and `Tomcat` all use `epoll`. 
+  `Nodejs`, `Redis` and `Tomcat` all use `epoll`.
+
+### Java Concurrency
+- [Demo Java NIO Server](https://github.com/jjenkov/java-nio-server) by Jakob Jenkov.
   
