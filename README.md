@@ -1,3 +1,10 @@
+### ✅ NO Thread Should be Blocked
+- Java NIO
+- Nodejs Event Loop
+- Golang goroutine
+- Redis Single Thread
+- Netty, Reactor and WebFlux
+
 ### Intro Crash Course Videos
 **Ordered from most important to least important**
 - [Computer Science](https://youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
