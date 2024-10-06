@@ -5,6 +5,7 @@
 - Redis Single Thread
 - Netty, Reactor and WebFlux
 - [Java Reactive Overview](https://zhongyangma.github.io/archivers/An-Overview-of-Reactive-Programming)
+- [Virtual Thread kills Reactor](https://youtu.be/axNA-gr3hDg?si=NeGI2MClGNo-yWLu)
 
 ### Intro Crash Course Videos
 **Ordered from most important to least important**
